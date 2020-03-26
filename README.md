@@ -1,0 +1,2 @@
+# UDP-Server-Client-Implementation
+In this project I have Implemented a working UDP Server and Client using Winsock   ​  The client takes on multiple user inputs (until command EXIT or SEND is entered)  When user inputs  Send  all message from user are sent to the sever in sequential order and until there is acknowledgement from the server is received user will not be able to send  anymore user inputs  When user inputs  exit  client disconnects from the sever 
