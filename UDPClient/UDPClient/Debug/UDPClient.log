@@ -1,0 +1,5 @@
+﻿  Client.cpp
+c:\users\user\source\repos\udpclient\udpclient\client.cpp(18): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\user\source\repos\udpclient\udpclient\client.cpp(32): warning C4101: 'recvbuf': unreferenced local variable
+c:\users\user\source\repos\udpclient\udpclient\client.cpp(88): warning C4101: 'buf': unreferenced local variable
+  UDPClient.vcxproj -> C:\Users\user\source\repos\UDPClient\Debug\UDPClient.exe
