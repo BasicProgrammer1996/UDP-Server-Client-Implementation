@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UDPSever", "UDPSever\UDPSever.vcxproj", "{ABF83751-B1E3-41C4-8A02-1A4546CC3BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF83751-B1E3-41C4-8A02-1A4546CC3BDE}.Debug|x64.ActiveCfg = Debug|x64
+		{ABF83751-B1E3-41C4-8A02-1A4546CC3BDE}.Debug|x64.Build.0 = Debug|x64
+		{ABF83751-B1E3-41C4-8A02-1A4546CC3BDE}.Debug|x86.ActiveCfg = Debug|Win32
+		{ABF83751-B1E3-41C4-8A02-1A4546CC3BDE}.Debug|x86.Build.0 = Debug|Win32
+		{ABF83751-B1E3-41C4-8A02-1A4546CC3BDE}.Release|x64.ActiveCfg = Release|x64
+		{ABF83751-B1E3-41C4-8A02-1A4546CC3BDE}.Release|x64.Build.0 = Release|x64
+		{ABF83751-B1E3-41C4-8A02-1A4546CC3BDE}.Release|x86.ActiveCfg = Release|Win32
+		{ABF83751-B1E3-41C4-8A02-1A4546CC3BDE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AEE4061-34C7-47E5-9AA0-DFE8FCFB9218}
+	EndGlobalSection
+EndGlobal
